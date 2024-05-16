@@ -1,0 +1,14 @@
+.title{
+    font-weight: bold;
+}
+.newcon{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.icon{
+    font-size: 1.5rem;
+    color: orange;
+}
+.date{
+    padding: 2px 0 0 15px;
+}
